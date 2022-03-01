@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tragedie of Phillis, complaining of the disloyall loue of Amyntas. To a pleasant new court tune.</title>
+            <author>R. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00235</idno>
+            <idno type="STC">STC 15.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[415]</idno>
+            <idno type="EEBO-CITATION">99884542</idno>
+            <idno type="PROQUEST">ocm99884542</idno>
+            <idno type="VID">183136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183136)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[220])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tragedie of Phillis, complaining of the disloyall loue of Amyntas. To a pleasant new court tune.</title>
+                  <author>R. A.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Amyntas on a summers day ..."</note>
+                  <note>Attributed to R.A. by STC.</note>
+                  <note>Place and date of publication suggested by STC.</note>
+                  <note>Issued with: Sir David Murray's The complaint of the shepheard Harpalus (STC 18295). Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="415" facs="tcp:183136:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>The Tragedie of Phillis, complaining of the diſloyall Loue of <hi>Amyntas.</hi>
+            </head>
+            <opener>To a pleaſant new Court Tune.</opener>
+            <lg>
+               <l>
+                  <hi>AMyntas</hi> on a Summers day,</l>
+               <l>to ſhunne <hi>Apollo's</hi> beames,</l>
+               <l>Was driuing of his flockes away,</l>
+               <l>to taſte ſome cooling ſtreames,</l>
+               <l>And through a Forreſt as he went,</l>
+               <l>vnto a riuer ſide,</l>
+               <l>A voice which from a groue was ſent</l>
+               <l>inuited him to bide.</l>
+            </lg>
+            <lg>
+               <l>The voyce well ſeem'd for to bewray</l>
+               <l>ſome mal-contented minde:</l>
+               <l>For oft times did he heare it ſay,</l>
+               <l>Ten thouſand times vnkind,</l>
+               <l>The remnant of that raged mone,</l>
+               <l>did all eſcape his eare:</l>
+               <l>For euery word brought forth a grone,</l>
+               <l>and euery grone a teare.</l>
+            </lg>
+            <lg>
+               <l>And neerer when he did repaire,</l>
+               <l>both face and voyce he knew:</l>
+               <l>He ſaw that <hi>Phillis</hi> was come there,</l>
+               <l>her plaints for to renew.</l>
+               <l>Thus leauing her vnto her plaints,</l>
+               <l>and ſorrow-flaking grones:</l>
+               <l>He heard her deadly diſcontents,</l>
+               <l>thus all breake foorth at once.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Amyntas,</hi> is my loue to thee,</l>
+               <l>of ſuch a light account,</l>
+               <l>That thou diſdaineſt to looke on me,</l>
+               <l>or loue as thou waſt wont?</l>
+               <l>Were thoſe the oathes that thou didſt make,</l>
+               <l>the vowes thou didſt conceiue,</l>
+               <l>When I for thy contentments ſake,</l>
+               <l>mine hearts delight did leaue?</l>
+            </lg>
+            <lg>
+               <l>How oft didſt thou proteſt to me,</l>
+               <l>the heauens ſhould turne to nought,</l>
+               <l>The Sunne ſhould firſt obſcured be,</l>
+               <l>er'e thou wouldſt change thy though<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</l>
+               <l>Then Heauen, diſſolue without delay,</l>
+               <l>Sunne ſhew thy face no more:</l>
+               <l>
+                  <hi>Amyntas</hi> loue is loſt for aye,</l>
+               <l>and woe is me therefore.</l>
+            </lg>
+            <lg>
+               <l>Well might I, if I had beene wiſe,</l>
+               <l>foreſeene what now I finde:</l>
+               <l>But two much loue did fill mine eyes,</l>
+               <l>and made my iudgement blind:</l>
+               <l>But ah, alas: th'effect doth proue,</l>
+               <l>thy drifts were but deceit,</l>
+               <l>For true and vndiſſembled loue,</l>
+               <l>will neuer turne to hate.</l>
+            </lg>
+            <lg>
+               <l>All thy behauiours were (God knowes)</l>
+               <l>too ſmooth and too diſcreet:</l>
+               <l>Like Sugar which impoyſoned growes,</l>
+               <l>ſuſpect becauſe it's ſweet:</l>
+               <l>Thine oathes &amp; vowes did promiſe more,</l>
+               <l>their well thou couldſt performe,</l>
+               <l>Much like a calme that comes before</l>
+               <l>an vnſuſpected ſtorme.</l>
+            </lg>
+            <lg>
+               <l>God knowes, it would not grieue me much,</l>
+               <l>for to be kill'd for thee:</l>
+               <l>But oh: too neere it doth me touch,</l>
+               <l>that thou ſhouldſt murther me:</l>
+               <l>God knowes, I care not for the paine</l>
+               <l>can come for want of breath:</l>
+               <l>'Tis thy vnkindneſſe cruell ſwaine,</l>
+               <l>that grieues me to the death.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Amyntas,</hi> tell me, if thou may,</l>
+               <l>if any fault of mine,</l>
+               <l>Hath giuen thee cauſe thus to betray</l>
+               <l>mine hearts delight and thine?</l>
+               <l>No, no, alas, it could not be,</l>
+               <l>my loue to thee was ſuch,</l>
+               <l>Vnleſſe if that I vrged thee,</l>
+               <l>in louing thee too much.</l>
+            </lg>
+            <lg>
+               <l>But ah, alas, what doe I gaine,</l>
+               <l>by theſe my fond complaints?</l>
+               <l>My dolour double thy diſdaine,</l>
+               <l>my griefe thy ioy augments:</l>
+               <l>Although it yeeld no greater good,</l>
+               <l>if oft doth <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe my mind:</l>
+               <l>For to reproach the ingratitude</l>
+               <l>of him who is vnkind.</l>
+            </lg>
+            <lg>
+               <l>With that, her hand, cold, wan, and pale,</l>
+               <l>vpon her breſt ſhe laies:</l>
+               <l>And ſeeing that her breath did faile,</l>
+               <l>ſhe ſighes, and then ſhe ſayes,</l>
+               <l>
+                  <hi>Amyntas,</hi> and with that pooremaid,</l>
+               <l>ſhee ſigh'd againe full ſore:</l>
+               <l>That after that ſhe neuer ſaid,</l>
+               <l>nor ſigh'd, nor breath'd no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcocke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
